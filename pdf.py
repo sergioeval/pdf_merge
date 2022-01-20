@@ -1,6 +1,6 @@
 from PyPDF2 import PdfFileMerger
 import sys
-
+# un comentario 
 
 pdfs = [sys.argv[1], sys.argv[2]]
 merger = PdfFileMerger()
