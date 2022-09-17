@@ -9,3 +9,5 @@
 
 python pdf.py "File_impar.pdf" "file_par.pdf" "12" "NOMBRE FINAL.pdf"
 
+
+Basado en este link de stackoverflow: (LINK)[https://stackoverflow.com/questions/3444645/merge-pdf-files]
