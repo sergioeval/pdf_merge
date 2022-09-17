@@ -1,2 +1,0 @@
---------------- archivo impar ----- archivo par ----------qty hojas en pdf ---- nombre final
-python pdf.py "cancelacion_hipoteca_impar.pdf" "cancelacion_hipoteca_par.pdf" "12" "CANCELACION_HIPOTECA_MONTE_VERDE.pdf"
